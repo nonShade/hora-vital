@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
         alignItems: "flex-start",
         paddingLeft: 25,
         paddingBottom: 30,
-        paddingTop: 15,
+        paddingTop: 65,
         borderBottomLeftRadius: 20,
         borderBottomRightRadius: 20,
     }

@@ -48,7 +48,7 @@ export default function LoginScreen() {
             </Text>
         </Text>
 
-        <Button title="Ingresar" onPress={() => console.log('login')} />
+        <Button title="Ingresar" onPress={() => router.push('/profile/profile')} />
       </View>
     </View>
   );
@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
   },
   label: {
     fontWeight: 'semibold',
-    fontSize: 20,
+    fontSize: 15,
     marginTop: 12,
     marginBottom: 4,
   }

@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderRadius: 10,
     paddingHorizontal: 10,
-    paddingVertical: 18,
+    paddingVertical: 7,
     marginVertical: 8,
     backgroundColor: '#fff'
   },
@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   },
   input: {
     flex: 1,
-    fontSize: 20,
+    fontSize: 17,
     color: '#000',
     padding: 0,
     borderWidth: 0,
